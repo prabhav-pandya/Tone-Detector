@@ -7,7 +7,7 @@ npm init
 ```
 
 **Prerequisites:**
-1. NodeJs 
+1. ExpressJs 
 2. tfidf Algorithm
 
 
