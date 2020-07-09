@@ -10,5 +10,16 @@ npm init
 1. ExpressJs 
 2. tfidf Algorithm
 
+**Examples:**
+```
+> Lol that's funny😂
+{"res":"positive"}
+
+>Dude that's depressing
+{"res":""negative"}
+```
+
+
+
 
 
