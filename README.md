@@ -7,8 +7,8 @@ npm init
 ```
 
 **Prerequisites:**
-1.NodeJs
-2.tfidf Algorithm
+1. NodeJs \n
+2. tfidf Algorithm
 
 
 
